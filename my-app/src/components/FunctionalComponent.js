@@ -16,3 +16,5 @@ function FunctionalComponent({ count, onAlert }) {
 }
 
 export default React.memo(FunctionalComponent);
+
+
